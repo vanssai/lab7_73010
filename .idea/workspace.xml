@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e982f43a-b426-4728-9854-bea4f9903741" name="Changes" comment="а">
-      <change afterPath="$PROJECT_DIR$/zad 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad1_2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad4.py" afterDir="false" />
+    <list default="true" id="e982f43a-b426-4728-9854-bea4f9903741" name="Changes" comment="finally">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad 4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pracownicy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pracownicy_wynik.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studenci.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vanssai"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vanssai/lab7_73010.git",
+    "accountId": "3079d1a2-f433-4445-9bc0-e26a61192dc7"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -39,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.zad 5.executor": "Run",
     "Python.zad1.executor": "Run",
     "Python.zad4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -71,11 +81,20 @@
       <option name="project" value="LOCAL" />
       <updated>1768514852075</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finally">
+      <option name="closed" value="true" />
+      <created>1768516195573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768516195573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="а" />
-    <option name="LAST_COMMIT_MESSAGE" value="а" />
+    <MESSAGE value="finally" />
+    <option name="LAST_COMMIT_MESSAGE" value="finally" />
   </component>
 </project>
